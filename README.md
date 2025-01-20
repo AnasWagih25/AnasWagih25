@@ -49,10 +49,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AnasWagih25/AnasWagih25/output/snake.svg" alt="Snake animation" />
-
-###
-
 ![snake gif](https://github.com/AnasWagih25/AnasWagih25/blob/output/github-snake-dark.svg)
