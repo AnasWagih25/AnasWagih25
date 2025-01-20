@@ -55,6 +55,4 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
+![snake gif](https://github.com/AnasWagih25/AnasWagih25/blob/output/github-snake-dark.svg)
