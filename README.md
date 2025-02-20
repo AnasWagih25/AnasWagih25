@@ -1,11 +1,12 @@
-<h2 align="left"># Hello World👋! My name is Anas Wagih and I'm an AI Enthusiast from Egypt!</h2>
+###
+<h2 align="left"> Hello World👋! My name is Anas Wagih and I'm an AI Enthusiast from Egypt!</h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasWagih25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasWagih25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
