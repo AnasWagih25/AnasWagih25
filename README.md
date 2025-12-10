@@ -5,9 +5,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=anaswagih25&layout=compact&theme=dracula" height="150" />
-</div>
 
 ###
 
