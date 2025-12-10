@@ -6,7 +6,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasWagih25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&token=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" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=anaswagih25&layout=compact&theme=dracula" height="150" />
 </div>
 
 ###
