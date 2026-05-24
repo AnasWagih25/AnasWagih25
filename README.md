@@ -84,7 +84,7 @@
 ## 🐍 Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnasWagih25/AnasWagih25/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/AnasWagih25/AnasWagih25/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
