@@ -48,7 +48,7 @@ class AnasWagih:
 <div align="center">
 
 <a href="https://github.com/AnasWagih25/BitBlock">
-  <img src="https://github-readme-stats-phi-one-88.vercel.app/api/pin/?username=AnasWagih25&amp;repo=BitBlock&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58a6ff&amp;icon_color=1f6feb" />
+  <img src="https://github-readme-stats-phi-one-88.vercel.app/api/pin/?username=AnasWagih25&amp;repo=Security_System_w_On-Edge_Facial_Recogniton&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58a6ff&amp;icon_color=1f6feb" />
 </a>
 &nbsp;
 <a href="https://github.com/AnasWagih25/PCBs-Portfolio">
