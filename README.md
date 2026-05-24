@@ -52,7 +52,7 @@ class AnasWagih:
 </a>
 &nbsp;
 <a href="https://github.com/AnasWagih25/PCBs-Portfolio">
-  <img src="https://github-readme-stats-phi-one-88.vercel.app/api/pin/?username=AnasWagih25&amp;repo=PCBs-Portfolio&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58a6ff&amp;icon_color=1f6feb" />
+  <img src="https://github-readme-stats-phi-one-88.vercel.app/api/pin/?username=AnasWagih25&amp;repo=PCBs_Portfolio&amp;theme=github_dark&amp;hide_border=true&amp;title_color=58a6ff&amp;icon_color=1f6feb" />
 </a>
 
 </div>
