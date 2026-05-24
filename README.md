@@ -38,7 +38,7 @@ class AnasWagih:
     certifications = ["ML Specialization — DeepLearning.AI + Stanford",
                       "Deep Learning Specialization — DeepLearning.AI (5 courses)",
                       "Arm Cortex-M Architecture — Arm Education (4 courses)"]
-    fun_fact    = "I design PCBs for fun and deploy ML models on microcontrollers 🔬"
+    fun_fact    = "I love gaming! mostly fps games"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
